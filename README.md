@@ -1,4 +1,4 @@
-# Prework Study Guide Webpage
+# Prework Study Guide Webpage ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
 
 ## Description
 
@@ -18,5 +18,5 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Apache 2.0 License
 
